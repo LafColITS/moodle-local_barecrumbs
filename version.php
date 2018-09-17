@@ -15,8 +15,6 @@
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
 
 /**
- * MOODLE VERSION INFORMATION
- *
  * This file contains version information for the Hide Inactive Courses plugin by Andrew Zito
  *
  * @package    local_barecrumbs
@@ -26,8 +24,8 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$plugin->version   = 2018082700;        // The current plugin version (Date: YYYYMMDDXX).
-$plugin->requires  = 2018051700;        // Requires this Moodle version.
-$plugin->component = 'local_barecrumbs';  // Full name of the plugin (used for diagnostics).
-$plugin->maturity = MATURITY_ALPHA;
-$plugin->release   = '1.0.0';
+$plugin->version   = 2018082700;
+$plugin->requires  = 2018051700;
+$plugin->component = 'local_barecrumbs';
+$plugin->maturity  = MATURITY_BETA;
+$plugin->release   = '1.0.0'; // [major].[minor].[patch]-[Moodle Version].[Moodle version specific patch].

@@ -15,7 +15,7 @@
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
 
 /**
- * Custom Breadcrumbs plugin settings.
+ * Local Barecrumbs plugin settings.
  *
  * @package    local_barecrumbs
  * @copyright  2018 onwards Lafayette College ITS
