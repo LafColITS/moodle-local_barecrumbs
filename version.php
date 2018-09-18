@@ -24,8 +24,8 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$plugin->version   = 2018091800;
-$plugin->requires  = 2018091400;
+$plugin->version   = 2018091835;
+$plugin->requires  = 2018051700;
 $plugin->component = 'local_barecrumbs';
 $plugin->maturity  = MATURITY_BETA;
-$plugin->release   = '1.0.0'; // [major].[minor].[patch]-[Moodle Version].[Moodle version specific patch].
+$plugin->release   = '1.0.0-35.0'; // [major].[minor].[patch]-[Moodle Version].[Moodle version specific patch].
